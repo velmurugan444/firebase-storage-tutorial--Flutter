@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "395195483599",
+    "project_id": "storagetutorial-d991d",
+    "storage_bucket": "storagetutorial-d991d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395195483599:android:c8ca165df54b7f58737eba",
+        "android_client_info": {
+          "package_name": "com.example.storagetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395195483599-ug1oaivodovgsogsopecd0u6s26ld50j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa6UEkXx4gHaxrF55FUfz2ez3jvQnybIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395195483599-ug1oaivodovgsogsopecd0u6s26ld50j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
